@@ -2,8 +2,12 @@ Game Project - StarCraft
 
 Part 1.
 
-Some text. Another text.
+Some text. Another player.
 
 Part 2.
 
 Description.
+
+Part 3.
+
+World description.
